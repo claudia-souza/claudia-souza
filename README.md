@@ -1,6 +1,6 @@
 ## Olá Mundo! 
 - 👩🏽‍💻Acadêmica em Ciência da Computação
-- 👩🏽‍💻téc. em Informática
+- 👩🏽‍💻Téc. em Informática
 - ✉️e-mail: claudiaferreira.s@outlook.com
 ##
 <div style="display:inline_block"> <br>
