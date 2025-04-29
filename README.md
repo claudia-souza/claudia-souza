@@ -1,7 +1,7 @@
 ## Olá Mundo! 
 - 👩🏽‍💻Acadêmica em Ciência da Computação
 - 👩🏽‍💻Téc. em Informática
-- ✉️e-mail: claudiaferreira.s@outlook.com
+- ✉️e-mail: claudiasouzaf7@gmail.com
 ##
 <div style="display:inline_block"> <br>
   <img align="center" alt="claudia-java" height="30" width="40" 
