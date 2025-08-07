@@ -3,6 +3,7 @@
 - 👩🏽‍💻Téc. em Informática
 - ✉️e-mail: claudiasouzaf7@gmail.com
 ##
+💻 Tecnologias 
 <div style="display:inline_block"> <br>
   <img align="center" alt="claudia-java" height="30" width="40" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
@@ -15,10 +16,5 @@
 </div>
 
 ##
-<!----
-<div>
-<a href="www.linkedin.com/in/cláudia-ferreira-a2b0aa316" target="_black"> <img src="" target="_black"> </a>
- 
-</div>
---!>
+
 
