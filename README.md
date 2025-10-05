@@ -2,6 +2,7 @@
 - 👩🏽‍💻Acadêmica em Ciência da Computação
 - 👩🏽‍💻Téc. em Informática
 - ✉️e-mail: claudiasouzaf7@gmail.com
+- LinkedIn: https://www.linkedin.com/in/cl%C3%A1udia-ferreira-a2b0aa316
 ##
 💻 Tecnologias 
 <div style="display:inline_block"> <br>
